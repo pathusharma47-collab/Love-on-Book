@@ -1,0 +1,8 @@
+{
+  "name": "Rupa Sri Portfolio",
+  "description": "A premium personal brand landing page for Rupa Sri, a digital creator, book reviewer, voice over artist, and community builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
